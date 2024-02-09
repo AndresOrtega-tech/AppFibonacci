@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Generador de Fibonaccio</string>
+    <string name="title_main_activity">Generador de Fibonacci</string>
+    <string name="title_result_activity">Generador de Fibonacci</string>
+    <string name="label_enter_number">Ingresa el numero de 1 a 10000</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="label_result">Resultado: </string>
+    <string name="error_invalid_number">Por favor ingresa un numero valido entre 1 y 10000</string>
+    <string name="fibonacci_result">Fibonacci de %1$d es %2$d</string>
+</resources>
